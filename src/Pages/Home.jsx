@@ -29,7 +29,7 @@ function Home() {
             </div>
         </div>
         <div className="w-full md:w-1/2 h-full flex items-start sm:items-center z-0 p-2">
-            <img className="h-[92%] lg:h-[80%] w-auto md:-ml-24 mt-16" src={Model} />
+            <img className="h-[80%] w-auto md:-ml-24 mt-16" src={Model} />
         </div>
       </div>
       
